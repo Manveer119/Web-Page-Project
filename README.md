@@ -22,10 +22,8 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+<p align="center">
+Launch the utility: <br/>
+<img src="Screenshot 2025-06-23 at 10.07.53 PM" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
