@@ -34,7 +34,7 @@ The objective of this project is to design a student-focused informational websi
 ##
 ![image alt](https://github.com/Manveer119/Web-Page-Project/blob/e6840ca688d38114b7da95d24c44dedbe0326b19/web%20page%201.jpg)
 ##
-![image alt]()
+![image alt](https://github.com/Manveer119/Web-Page-Project/blob/c74baa93a392c85987c8398c5feacc20f71b62cf/web%20page%202.jpg)
 
 
 
