@@ -1,27 +1,34 @@
-# PROJECTNAME
+# Student Resource Website
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The objective of this project is to design a student-focused informational website called <strong>College Success 101</strong> that helps college students succeed academically and personally. The site provides resources, study strategies, personal development tips, and contact options, all aimed at improving the college experience.</p>
+
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+<li>Basic HTML and CSS coding
+<li>Page layout and content organization
+<li>Website structure and navigation design
+<li>Embedding and linking internal pages
+<li>User experience (UX) and information clarity
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+<li>Text Editor (e.g., Visual Studio Code or Sublime Text)</li>
+        <li>Web Browser (e.g., Safari, Chrome)</li>
+        <li>File Explorer for local file management</li>
+        <li>Basic graphic (image) resources</li>
 
 ## Steps
+
+<li>Planned the site structure with five key pages: Home, Study Tips, Academic Resources, Personal Development, and Contact.</li>
+        <li>Wrote original content focused on helping students thrive in college.</li>
+        <li>Coded individual HTML pages using semantic elements and consistent design.</li>
+        <li>Created a shared navigation bar for smooth internal linking across pages.</li>
+        <li>Applied simple CSS styling to unify the visual layout and highlight key sections.</li>
+        <li>Tested site functionality locally using browser preview.</li>
+
 <p align="center">
 Launch the utility: <br/>
 <img src="Screenshot 2025-06-23 at 10.07.53 PM" height="80%" width="80%" alt="Disk Sanitization Steps"/>
