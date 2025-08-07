@@ -29,11 +29,7 @@ The objective of this project is to design a student-focused informational websi
         <li>Applied simple CSS styling to unify the visual layout and highlight key sections.</li>
         <li>Tested site functionality locally using browser preview.</li>
 
-![Alt text](images/screenshot.png)
 
 
-<p align="center">
-Launch the utility: <br/>
 <img src="Screenshot 2025-06-23 at 10.07.53 PM" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
