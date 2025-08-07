@@ -31,5 +31,10 @@ The objective of this project is to design a student-focused informational websi
 
 
 
-<img src="Screenshot 2025-06-23 at 10.07.53 PM" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+##
+![image alt](https://github.com/Manveer119/Web-Page-Project/blob/e6840ca688d38114b7da95d24c44dedbe0326b19/web%20page%201.jpg)
+##
+![image alt]()
+
+
 
